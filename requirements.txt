@@ -1,0 +1,10 @@
+jupyterlab>=4,<5
+torch>=2.2,<3
+sentencepiece>=0.2,<0.3
+underthesea>=6,<9
+sacrebleu>=2.4,<3
+transformers>=4.46,<5
+accelerate>=1,<2
+datasets>=3,<5
+matplotlib>=3.8,<4
+tensorboard>=2.16,<3
